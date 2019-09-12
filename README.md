@@ -1,6 +1,6 @@
 # DirectAdmin-EnhancedSkin-Chinese
 DirectAdmin enhanced skin Chinese
-DirectAdmin中文汉化enhanced皮肤由梦飞科技每半年汉化一次
+DirectAdmin中文汉化enhanced皮肤由梦飞科技每半年更新
 
 支持版本directadmin Version 1.58.2 ，汉化日期为2019.09.12
 
